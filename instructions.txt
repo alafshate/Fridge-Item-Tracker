@@ -1,0 +1,22 @@
+Instructions
+
+1. Generate a .NET Core project:
+dotnet new console -n PersonalFinanceManagerProject
+
+2. Build project:
+dotnet build
+
+3. Run program:
+dotnet run
+
+
+Additional comments:
+
+Command structure: dotnet <command> <argument> <option>
+
+1. Get help with commands:
+dotnet --help
+
+2. Check different types of projects using dotnet new:
+dotnet new list
+
